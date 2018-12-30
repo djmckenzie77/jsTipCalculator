@@ -1,2 +1,0 @@
-# jsTipCalculator
-Created with CodeSandbox
